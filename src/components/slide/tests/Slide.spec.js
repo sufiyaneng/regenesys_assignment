@@ -1,7 +1,7 @@
 /* eslint-disable testing-library/prefer-screen-queries */
 import React from "react";
 import { render } from "@testing-library/react";
-import Slide from "..";
+import Slide from "../Slide";
 
 test("renders slide correctly", () => {
   const slideData = {
